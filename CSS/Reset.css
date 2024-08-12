@@ -1,0 +1,38 @@
+.start{
+    left: 70px;
+}
+
+::placeholder{
+    padding-left: 3rem;
+}
+
+.input-border[text]{
+    border: 2px solid grey;
+}
+
+.container{
+    max-width: 580px;
+}
+
+.layer{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    background-image: url(Rectangle\ 1316.svg);
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    align-items: center;
+}
+
+.padding-0{
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.fs-7{
+    font-size: 0.8rem;
+}
